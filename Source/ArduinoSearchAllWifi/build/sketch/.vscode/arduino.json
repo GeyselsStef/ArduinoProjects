@@ -1,0 +1,8 @@
+#line 1 "C:\\Projects\\ArduinoProjects\\Source\\ArduinoSearchAllWifi\\.vscode\\arduino.json"
+{
+    "sketch": "ArduinoSearchAllWifi.ino",
+    "output": "build",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "port": "COM9"
+}
